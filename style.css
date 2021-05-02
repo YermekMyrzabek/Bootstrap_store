@@ -1,0 +1,13 @@
+/* Navigation bar */
+
+.navbar-inverse{
+  background-color: black;
+  color: white;
+}
+#content{
+  margin-top: 1%;
+}
+
+.col-xs-3{
+    margin-top: 5%;
+}
